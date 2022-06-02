@@ -1,0 +1,41 @@
+{
+  "files": {
+    "app.js": "/static/js/app.74880786.chunk.js",
+    "app.js.map": "/static/js/app.74880786.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.977c9d75.chunk.js": "/static/js/2.977c9d75.chunk.js",
+    "static/js/2.977c9d75.chunk.js.map": "/static/js/2.977c9d75.chunk.js.map",
+    "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.977c9d75.chunk.js.LICENSE.txt": "/static/js/2.977c9d75.chunk.js.LICENSE.txt",
+    "static/media/Actions-user-group-icon_128.png": "/static/media/Actions-user-group-icon_128.14909ab0.png",
+    "static/media/BackGroundLogin.jpg": "/static/media/BackGroundLogin.07b316d9.jpg",
+    "static/media/Loading.gif": "/static/media/Loading.91a97ba1.gif",
+    "static/media/Logo_transparente_semSlogan_semNumTel.png": "/static/media/Logo_transparente_semSlogan_semNumTel.46bdf4b6.png",
+    "static/media/OS.png": "/static/media/OS.e894b262.png",
+    "static/media/empty_shopping_cart_azul_96px.png": "/static/media/empty_shopping_cart_azul_96px.f3bedb37.png",
+    "static/media/produtos_96px.png": "/static/media/produtos_96px.b967fd38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.977c9d75.chunk.js",
+    "static/js/app.74880786.chunk.js"
+  ]
+}

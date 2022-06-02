@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Sistema Metha",
+    "slug": "SistemaMetha",
+    "version": "1.0.9",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sistemametha.SistemaMetha"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sistemametha.SistemaMetha"
+    },
+    "web": {
+      "favicon": "./assets/Icon.png"
+    }
+  }
+}
