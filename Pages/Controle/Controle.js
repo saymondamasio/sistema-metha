@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import React,  {useState} from 'react';
+import React,  {useState, useEffect} from 'react';
 import { Text, View, TouchableOpacity, TextInput, ScrollView, FlatList } from 'react-native';
 import MaskInput, {Masks} from 'react-native-mask-input';
 import styles from './ControleStyle';

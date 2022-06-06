@@ -3,7 +3,7 @@
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": null,
+  "urlRandomness": "kn-vkb",
   "https": false,
   "scheme": "exp+sistemametha",
   "devClient": false

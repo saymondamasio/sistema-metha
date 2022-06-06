@@ -357,8 +357,7 @@ export default function AdicionarVendaProdutos( { navigation, route } ) {
     {
       return(
         <View style={{width: '100%', height: '100%'}}>
-          <View style={{paddingTop: 6}}>
-              
+          <View style={{paddingTop: 6}}>  
               <Text>Quantidade</Text>
               <TextInput
                   style={styles.Input}
@@ -371,7 +370,7 @@ export default function AdicionarVendaProdutos( { navigation, route } ) {
                   }}
               />
               
-              estqempr()
+              {estqempr()}
 
             </View>
         </View>              
